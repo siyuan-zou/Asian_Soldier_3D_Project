@@ -17,7 +17,7 @@ This repository contains a 3D graphics project completed as part of the **INF443
 - **Lighting Effects**: Incorporates multiple light sources such as ambient, point, and directional lighting.
 
 ## Demonstration
-- ![Demonstration](video.gif)
+- ![Demonstration Video](video.gif)
 
 ## Getting Started
 
