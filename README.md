@@ -18,11 +18,19 @@ This repository contains a 3D graphics project completed as part of the **INF443
 
 ## Demonstration
 
-- [Demonstration](video.gif)
+- ![Demonstration](video.gif)
 
 ## Getting Started
 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/siyuan-zou/Asian_Soldier_3D_Project.git
-   cd Asian_Soldier_3D_Project.
+   cd Asian_Soldier_3D_Project/main_code/code
+
+2. **Build the Project**  
+   ```bash
+   make
+
+3. **Run the Executable**
+   ```bash
+   ./06_character_animation
