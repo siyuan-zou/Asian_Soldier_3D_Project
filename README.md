@@ -1,6 +1,6 @@
 # 3D Project - Asian Soldier
 
-This repository contains a 3D graphics project completed as part of the **INF443 - Informatique Graphique 3D** course. The project demonstrates an Asian Soldier walking among the frog and the mountains. She can step forward and back, performing different sword skills when pressing different buttons, demonstrating concepts in 3D modeling, rendering, and transformations, showcasing various techniques learned throughout the course.
+This repository contains a 3D graphics project completed as part of the **INF443 - Informatique Graphique 3D** course at École Polytechnique. The project demonstrates an Asian Soldier walking among the frog and the mountains. She can step forward and back, performing different sword skills when pressing different buttons, demonstrating concepts in 3D modeling, rendering, and transformations, showcasing various techniques learned throughout the course.
 
 ## Project Overview
 
