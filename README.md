@@ -5,25 +5,24 @@ This repository contains a 3D graphics project completed as part of the **INF443
 ## Project Overview
 
 - **Course**: Computer Graphics
-- **Objective**: Create a 3D model and demonstrate transformations, lighting effects, and camera manipulation.
-- **Tools Used**: [Specify any software or libraries, e.g., OpenGL, Three.js, Blender, etc.]
+- **Objective**: Create and animate a 3D model with textures and vertices manipulation, applying lighting and transformation effects.
+- **Tools Used**: CGP library (similar to OpenGL)
 
 ## Key Features
 
-- **3D Modeling**: The project includes complex 3D models built from scratch or using predefined primitives.
-- **Lighting and Shading**: Implements multiple light sources, including ambient, diffuse, and specular lighting.
-- **Camera Control**: Provides user controls for rotating, zooming, and panning the camera to explore the model from various angles.
-- **Transformations**: Demonstrates object scaling, rotation, and translation, showcasing real-time interaction.
+- **3D Modeling**: Includes complex 3D models built from scratch, using primitive shapes and custom geometry.
+- **Textures and Shading**: Implements texture mapping, including diffuse and specular shading, for realistic surface details.
+- **Animation**: Demonstrates animated sequences, including object transformations, rotations, and vertex manipulation for dynamic effects.
+- **Vertices Manipulation**: Utilizes vertices for detailed geometry adjustments and mesh deformations.
+- **Lighting Effects**: Incorporates multiple light sources such as ambient, point, and directional lighting.
 
-<video width="640" height="360" controls>
-  <source src="path/to/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## Demonstration
 
+- [Demonstration](video.gif)
 
 ## Getting Started
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/3D_Project.git
-   cd 3D_Project
+   git clone https://github.com/siyuan-zou/Asian_Soldier_3D_Project.git
+   cd Asian_Soldier_3D_Project.
