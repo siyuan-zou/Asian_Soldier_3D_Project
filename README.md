@@ -18,8 +18,6 @@ This repository contains a 3D graphics project completed as part of the **INF443
 
 ## Demonstration
 - ![Demonstration Video](video.gif)
-- <img src="video.gif" alt="Demonstration Video" width="600" height="auto"/>
-
 
 ## Getting Started
 
